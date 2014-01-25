@@ -1,0 +1,2 @@
+# user
+### a Sails application
